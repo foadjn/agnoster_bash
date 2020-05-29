@@ -1,7 +1,7 @@
 # Agnoster for Bash
 This is Agnoster theme for Bash.
 
-agnoster's Theme - https://gist.github.com/3712874
+Agnoster's Theme - https://gist.github.com/3712874
 A Powerline-inspired theme for BASH
 
 (Converted from ZSH theme by Kenny Root)
