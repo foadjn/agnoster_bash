@@ -1,4 +1,4 @@
-# agnoster_bash
+# Agnoster for Bash
 This is Agnoster theme for Bash.
 
 agnoster's Theme - https://gist.github.com/3712874
@@ -33,3 +33,5 @@ if [[ -f $agnoster_path ]]; then
     source $agnoster_path
 fi
 ```
+
+![ScreenShot](images/screenshot.png)
