@@ -33,5 +33,5 @@ if [[ -f $agnoster_path ]]; then
     source $agnoster_path
 fi
 ```
-
-![ScreenShot](images/screenshot.png)
+A screenshot of this theme is shown in figure 1
+[ScreenShot](images/screenshot.png)
