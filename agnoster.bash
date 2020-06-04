@@ -400,7 +400,7 @@ set_bash_prompt() {
 
     # uncomment below to use right prompt
     #     PS1='\[$(tput sc; printf "%*s" $COLUMNS "$PRIGHT"; tput rc)\]'$PR
-    PS1="$PR \n\[\033[00m\]\[\033[0;36m\]└─\[\033[0m\] \$\[\033[0m\] "
+    PS1="\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PR \n\[\033[00m\]\[\033[0;36m\]└─\[\033[0m\] \$\[\033[0m\] "
 }
 
 PROMPT_COMMAND=set_bash_prompt
