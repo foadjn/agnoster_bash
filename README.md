@@ -25,7 +25,7 @@ Install:
 For full support, install `fonts-powerline`
 
 ```shell
-$sudoaptinstall fonts-powerline
+sudo apt install fonts-powerline
 ```
 
 To install this theme use the follwing commands
