@@ -19,6 +19,11 @@ In this version, the $pwd is visible, besides the name of the user and host; als
 # README
 Install:
 
+For full support, install `fonts-powerline`
+```{bash}
+$ sudo apt install fonts-powerline
+```
+
 To install this theme use the follwing commands
 ```
 $ cd ~
