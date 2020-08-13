@@ -24,7 +24,7 @@ Install:
 
 For full support, install `fonts-powerline`
 
-```shell_session
+```shell
 $ sudo apt install fonts-powerline
 ```
 
