@@ -20,19 +20,19 @@ In this version, the $pwd is visible, besides the name of the user and host; als
 Install:
 
 For full support, install `fonts-powerline`
-```{bash}
+```console
 $ sudo apt install fonts-powerline
 ```
 
 To install this theme use the follwing commands
-```
+```console
 $ cd ~
 $ mkdir -p .bash/themes/agnoster_bash
 $ git clone git@gitlab.com:foadjn/agnoster_bash.git .bash/themes/agnoster_bash
 ```
 then add the following to your .bashrc:
 
-```
+```bash
 agnoster_path="$HOME/.bash/themes/agnoster_bash/agnoster.bash"
 if [[ -f $agnoster_path ]]; then
     source $agnoster_path
