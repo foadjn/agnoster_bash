@@ -25,15 +25,15 @@ Install:
 For full support, install `fonts-powerline`
 
 ```console
-sudo apt install fonts-powerline
+~$ sudo apt install fonts-powerline
 ```
 
 To install this theme use the follwing commands
 
 ```shell
-$cd ~
-$mkdir -p .bash/themes/agnoster_bash
-$git clone git@gitlab.com:foadjn/agnoster_bash.git .bash/themes/agnoster_bash
+~$ cd ~
+~$ mkdir -p .bash/themes/agnoster_bash
+~$ git clone git@gitlab.com:foadjn/agnoster_bash.git .bash/themes/agnoster_bash
 ```
 
 then add the following to your .bashrc:
